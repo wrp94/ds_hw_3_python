@@ -1,7 +1,7 @@
 import os
 import csv
 
-
+# make sure this file is being run
 if (__name__ == "__main__"):
     # Change working directory to the directory of the script file
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
